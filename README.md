@@ -1,14 +1,14 @@
 # API3 Whitepaper
 
-Use the communication channels to discuss the whitepaper:
+Utilice los canales de comunicación para discutir el documento técnico:
 
-* Telegram (for community): https://t.me/API3DAO
+* Telegram (para la comunidad): https://t.me/API3DAO
 
-* Keybase (for contributors): https://keybase.io/team/api3
+* Keybase (para colaboradores): https://keybase.io/team/api3
 
-Create an [issue](https://github.com/api3dao/api3-whitepaper/issues) to propose an update.
+Cree un [issue](https://github.com/api3dao/api3-whitepaper/issues) para proponer una actualización.
 
-## Build instructions
+## Instrucciones de construcción
 
-Just use [Overleaf](https://www.overleaf.com) to build on your browser.
-If you want to go the offline route, use [TeXstudio](https://www.texstudio.org/).
+Simplemente use [Overleaf](https://www.overleaf.com) para construir en su navegador.
+Si desea ir por la ruta sin conexión, use [TeXstudio](https://www.texstudio.org/).
